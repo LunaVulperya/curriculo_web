@@ -28,3 +28,18 @@ header{
     border-radius: 50%;
     border: 3px solid white;
 }
+
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background: #222;
+    color: white;
+}
