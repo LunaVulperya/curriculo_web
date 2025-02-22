@@ -37,6 +37,15 @@ section{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
 }
 
+.lista{
+    display: list-item;
+}
+
+.titles{
+    font-size: 19px;
+    font-weight: bold;
+}
+
 footer{
     text-align: center;
     padding: 10px;
