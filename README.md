@@ -15,4 +15,4 @@ Divs and Sections were utilized to separate specific parts in the page, to make 
 
 Pretendo customizar essa página, apesar de básica em seu âmago, para torná-la um currículo acessível por qualquer pessoa que tiver o link, de forma fácil e sem precisar fazer download de arquivos que contenham as informações contidas nesse projeto.
 
-I pretend to customize this page, being basic in its core, to make it easy to access to anyone who have the link, without the need to download any files that contain the information presented by this project.
+I pretend to customize this page, albeit basic in its core, to make it easy to access to anyone who have the link, without the need to download any files that contain the information presented by this project.
