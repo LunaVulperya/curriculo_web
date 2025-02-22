@@ -38,6 +38,7 @@ section{
 }
 
 .lista{
+    margin-left: 30px;
     display: list-item;
 }
 
